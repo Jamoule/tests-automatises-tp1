@@ -18,7 +18,6 @@ __pycache__/
 
 # Fichiers de couverture de tests
 .coverage
-htmlcov/
 .pytest_cache/
 coverage.xml
 *.cover
